@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "e2e1508576b23670",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff353bd75627db29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9db64c34ab82ffef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentación/PM2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PM2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12b160d1c4c9b113",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ea83fbc1097390e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa342ecc2da42aa1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "70968b62550511e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "01e1689def118c37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.50418853759766
+  },
+  "right": {
+    "id": "17560335f7552ebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "561a80069b01636b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a51af64a28ef556",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cursos/Javascipt/Modulo 1/1 - Introducción al desarrollo web/Teoría.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Teoría"
+            }
+          },
+          {
+            "id": "3837d426c9ae586c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cursos/Javascipt/Modulo 1/1 - Introducción al desarrollo web/Teoría.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Teoría"
+            }
+          },
+          {
+            "id": "8e004c7551a7645f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e5d4b420451a17a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Documentación/PM2.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de PM2"
+            }
+          },
+          {
+            "id": "ab783311bdb3fc04",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "9db552191a56fae7",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Excalidraw/Argos ERP.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propiedades de los archivos para Argos ERP"
+            }
+          },
+          {
+            "id": "581df9adea00ae6e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "aa7f03689a6718b4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir vista gráfica": false,
+      "switcher:Abrir selector rápido": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "vscode-editor:Create Code File": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "9db64c34ab82ffef",
+  "lastOpenFiles": [
+    "Documentación/Certificado SSL.md",
+    "Documentación/PM2.md",
+    "Documentación/Protocolo SSH.md",
+    "Documentación/Configuración del Servidor.md",
+    "KheironCo/Proyectos/Kheiron/Server.md",
+    "Sin título.md",
+    "Pasted Image 20250321190100_663.png",
+    "KheironCo/Cloud Server.md",
+    "KheironCo/Proyectos/Sin título.md",
+    "KheironCo/Proyectos/Sin título 1.md",
+    "KheironCo/Proyectos/Drawing 2025-04-05 22.32.23.excalidraw.md",
+    "KheironCo/Proyectos/Copia de Drawing 2025-04-05 22.32.23.excalidraw.md",
+    "Documentación/Base de datos/MongoDB/MongoDB Community Server.md",
+    "Documentación/Base de datos/MongoDB",
+    "Pasted Image 20250406001703_622.png",
+    "Pasted Image 20250406001518_739.png",
+    "Pasted Image 20250406001252_163.png",
+    "Pasted Image 20250405233019_431.png",
+    "Pasted Image 20250405230600_197.png",
+    "Pasted Image 20250405232732_195.png",
+    "Pasted Image 20250405232749_815.png",
+    "Pasted Image 20250405224947_300.png",
+    "Pasted Image 20250405224929_701.png",
+    "Untitled Kanban.md",
+    "KheironCo/Proyectos/ArgosERP/Backend.md",
+    "KheironCo/Proyectos/ArgosERP/Presentación.md",
+    "KheironCo/Proyectos/Equidad Recursos Humanos/Moodle.md",
+    "Documentación/Bash.md",
+    "Documentación/Automatización de procesos.md",
+    "KheironCo/Proyectos/Orion/Presentación de valor.md",
+    "Excalidraw/Argos ERP.md",
+    "Cursos/html/pdf/Parte 1 - Guía de las principales etiquetas HTML para principiantes.pdf",
+    "Excalidraw/Drawing 2025-03-21 18.49.21.excalidraw.md",
+    "Cursos/diagama de flujo/Diagrama de flujo.md",
+    "Cursos/diagama de flujo/Ejercicios.md",
+    "Cursos/diagama de flujo/Resolución.md",
+    "Cursos/html/Parte 1 - Guía de las principales etiquetas HTML para principiantes.md",
+    "Cursos/diagama de flujo",
+    "Cursos/html/Parte 2 - Guía de las principales etiquetas HTML para principiantes.md",
+    "Cursos/html/pdf/Parte 3 - Guía de las principales etiquetas HTML para principiantes.pdf",
+    "Cursos/html/pdf",
+    "Cursos/html/pdf/Parte 2 - Guía de las principales etiquetas HTML para principiantes.pdf",
+    "Cursos/Herramientas.pdf",
+    "My code file.ts",
+    "Sin nombre",
+    "Cursos/html"
+  ]
+}
